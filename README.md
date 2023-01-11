@@ -1,2 +1,3 @@
 # Duck-Hunt-Game
 Implemented a 2D variation of the game Duck Hunt in C++.
+Remember this good old nintendo classic? Duck Hunt has always been a great game to play and it became a classic many years ago. Now, Duck Hunt can be enjoyed by everyone by playing via emulator. If you never played (yea right), Duck Hunt is all about shooting ducks. Aim your gun using the mouse but don't just fire blindly because you only get 3 shots per try and if you run out of ammo how can you shoot the duck? Now if you miss, your dog laughs at you. The object is to hit all the ducks. In the lower levels of Duck Hunt, you're allowed some misses but if you miss too many ducks on a high level then it's game over. In the later stages you have to be 100% perfect which is nearly impossible.
